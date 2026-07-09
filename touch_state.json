@@ -1,0 +1,170 @@
+{
+  "USDJPY": {
+    "BUY": {
+      "touch_index": null,
+      "touch_side": "BUY",
+      "touch_level": null,
+      "in_touch_area": false
+    },
+    "SELL": {
+      "touch_index": 495441,
+      "touch_side": "SELL",
+      "touch_level": "38.2%",
+      "in_touch_area": false
+    }
+  },
+  "EURJPY": {
+    "BUY": {
+      "touch_index": null,
+      "touch_side": "BUY",
+      "touch_level": null,
+      "in_touch_area": false
+    },
+    "SELL": {
+      "touch_index": null,
+      "touch_side": "SELL",
+      "touch_level": null,
+      "in_touch_area": false
+    }
+  },
+  "GBPJPY": {
+    "BUY": {
+      "touch_index": null,
+      "touch_side": "BUY",
+      "touch_level": null,
+      "in_touch_area": false
+    },
+    "SELL": {
+      "touch_index": 495440,
+      "touch_side": "SELL",
+      "touch_level": "78.6%",
+      "in_touch_area": false
+    }
+  },
+  "AUDJPY": {
+    "BUY": {
+      "touch_index": 495422,
+      "touch_side": "BUY",
+      "touch_level": "38.2%",
+      "in_touch_area": false
+    },
+    "SELL": {
+      "touch_index": null,
+      "touch_side": "SELL",
+      "touch_level": null,
+      "in_touch_area": false
+    }
+  },
+  "EURUSD": {
+    "BUY": {
+      "touch_index": 495420,
+      "touch_side": "BUY",
+      "touch_level": "78.6%",
+      "in_touch_area": true
+    },
+    "SELL": {
+      "touch_index": null,
+      "touch_side": "SELL",
+      "touch_level": null,
+      "in_touch_area": false
+    }
+  },
+  "GBPUSD": {
+    "BUY": {
+      "touch_index": 495420,
+      "touch_side": "BUY",
+      "touch_level": "38.2%",
+      "in_touch_area": true
+    },
+    "SELL": {
+      "touch_index": 495420,
+      "touch_side": "SELL",
+      "touch_level": "38.2%",
+      "in_touch_area": true
+    }
+  },
+  "AUDUSD": {
+    "BUY": {
+      "touch_index": 495420,
+      "touch_side": "BUY",
+      "touch_level": "38.2%",
+      "in_touch_area": true
+    },
+    "SELL": {
+      "touch_index": null,
+      "touch_side": "SELL",
+      "touch_level": null,
+      "in_touch_area": false
+    }
+  },
+  "USDCHF": {
+    "BUY": {
+      "touch_index": null,
+      "touch_side": "BUY",
+      "touch_level": null,
+      "in_touch_area": false
+    },
+    "SELL": {
+      "touch_index": 495420,
+      "touch_side": "SELL",
+      "touch_level": "50.0%",
+      "in_touch_area": true
+    }
+  },
+  "USDCAD": {
+    "BUY": {
+      "touch_index": null,
+      "touch_side": "BUY",
+      "touch_level": null,
+      "in_touch_area": false
+    },
+    "SELL": {
+      "touch_index": 495420,
+      "touch_side": "SELL",
+      "touch_level": "50.0%",
+      "in_touch_area": true
+    }
+  },
+  "BTC": {
+    "BUY": {
+      "touch_index": null,
+      "touch_side": "BUY",
+      "touch_level": null,
+      "in_touch_area": false
+    },
+    "SELL": {
+      "touch_index": null,
+      "touch_side": "SELL",
+      "touch_level": null,
+      "in_touch_area": false
+    }
+  },
+  "ETH": {
+    "BUY": {
+      "touch_index": null,
+      "touch_side": "BUY",
+      "touch_level": null,
+      "in_touch_area": false
+    },
+    "SELL": {
+      "touch_index": null,
+      "touch_side": "SELL",
+      "touch_level": null,
+      "in_touch_area": false
+    }
+  },
+  "XRP": {
+    "BUY": {
+      "touch_index": 495436,
+      "touch_side": "BUY",
+      "touch_level": "78.6%",
+      "in_touch_area": true
+    },
+    "SELL": {
+      "touch_index": 495436,
+      "touch_side": "SELL",
+      "touch_level": "38.2%",
+      "in_touch_area": false
+    }
+  }
+}
