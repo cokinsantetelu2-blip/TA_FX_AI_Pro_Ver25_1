@@ -1,0 +1,1 @@
+# TA_FX_AI_Pro_Ver25_1
